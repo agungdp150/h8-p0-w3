@@ -13,6 +13,7 @@ console.log(balikString('Hello World!'));
 
 
 //Step 2
+/*
 function balikString(str) {
   var dibalik = '';
   for (var i = 0; i < str.length; i++) {
@@ -21,3 +22,4 @@ function balikString(str) {
   return dibalik;
 }
 console.log(balikString('Hello World!'))
+*/
